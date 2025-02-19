@@ -172,6 +172,7 @@ for row in sgpa_data:
 if connection:
     connection.close()
     print("\nDatabase connection closed.")
+print("Database connection closed.")
     
 # You are an expert in converting English questions to SQL queries for the AMITY database. The database has the following tables:
 
@@ -195,3 +196,8 @@ if connection:
 
 # Now convert the following English question into a valid SQL query for the AMITY database: {user_query}.
 # No preamble, only the valid SQL query.
+
+
+
+# Query for all-student and sub-query
+# get the marks of student of sem_id=1
