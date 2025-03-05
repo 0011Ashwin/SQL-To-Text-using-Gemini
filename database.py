@@ -172,7 +172,6 @@ for row in sgpa_data:
 if connection:
     connection.close()
     print("\nDatabase connection closed.")
-print("Database connection closed.")
     
 # You are an expert in converting English questions to SQL queries for the AMITY database. The database has the following tables:
 

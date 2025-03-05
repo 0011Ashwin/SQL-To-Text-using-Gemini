@@ -1,5 +1,4 @@
 streamlit
 google-generativeai
 python-dotenv
-sqllite3
-python-dotenv
+# sqllite3
